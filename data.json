@@ -1,0 +1,45 @@
+
+    [
+        {
+            "id":1,
+            "name":"jai vilash palace ",
+            "summary":" Constructed in 1874 by Maharaja Jayaji Rao Scindia, Jai Vilas Palace served as the residence of the Scindia dynasty. The palace reflects the wealth and grandeur of the royal family during that era",
+            "image": "/image/jayvilash.jpg"
+            
+        },
+        {
+            "id":2,
+            "name":"jhashi fort ",
+            "summary":"Jhansi Fort, located in Jhansi, Uttar Pradesh, is a historic fort that holds great significance in India's history."
+            
+            
+        },
+        {
+            "id":3,
+            "name":"amer fort ",
+            "summary":" Amer Fort was built in the late 16th century by Raja Man Singh I, a trusted general of Mughal Emperor Akbar. It was expanded by his descendants and served as the capital of the Kachhwaha clan until the city of Jaipur was established"
+            
+            
+        },
+        {
+            "id":4,
+            "name":" jal mahal ",
+            "summary":"Built in the 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur, Jal Mahal was initially used as a retreat and hunting lodge for the royal family"
+            
+            
+        },
+        {
+            "id":5,
+            "name":" naharghare fort ",
+            "summary":"Built in the 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur, Jal Mahal was initially used as a retreat and hunting lodge for the royal family"
+            
+            
+        },
+        {
+            "id":6,
+            "name":" hawa mahal ",
+            "summary":"Built in the 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur, Jal Mahal was initially used as a retreat and hunting lodge for the royal family"
+            
+            
+        }
+    ]
